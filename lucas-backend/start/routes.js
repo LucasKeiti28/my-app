@@ -24,3 +24,5 @@ Route.put('forgotpasswords', 'ForgotPasswordController.update')
 
 Route.get('files/:id', 'FileController.show')
 Route.post('files', 'FileController.store')
+
+Route.post('admins/:id', 'AdminController.store')

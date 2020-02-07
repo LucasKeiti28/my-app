@@ -19,7 +19,7 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "bundleIdentifier": "com.apollo.farialimers",
-      "supportsTablet": true
+      "buildNumber": "1.0.0"
     },
     "android": {
       "package": "com.apollo.farialimers",
